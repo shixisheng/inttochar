@@ -15,5 +15,5 @@ public class filetobite {
 		try{input.close();}catch(IOException e){e.printStackTrace();}
 		System.out.println("内容为："+new String(b));
 	}
-   
+      
 }
